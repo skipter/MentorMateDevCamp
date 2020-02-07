@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Boris\\Desktop\\devCampMentorMate\\devCampExercise\\devCampExercise.csproj": {}
+    "C:\\Users\\Boris\\Desktop\\MentorMateDevCamp\\devCampExercise\\devCampExercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Boris\\Desktop\\devCampMentorMate\\devCampExercise\\devCampExercise.csproj": {
+    "C:\\Users\\Boris\\Desktop\\MentorMateDevCamp\\devCampExercise\\devCampExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Boris\\Desktop\\devCampMentorMate\\devCampExercise\\devCampExercise.csproj",
+        "projectUniqueName": "C:\\Users\\Boris\\Desktop\\MentorMateDevCamp\\devCampExercise\\devCampExercise.csproj",
         "projectName": "devCampExercise",
-        "projectPath": "C:\\Users\\Boris\\Desktop\\devCampMentorMate\\devCampExercise\\devCampExercise.csproj",
+        "projectPath": "C:\\Users\\Boris\\Desktop\\MentorMateDevCamp\\devCampExercise\\devCampExercise.csproj",
         "packagesPath": "C:\\Users\\Boris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Boris\\Desktop\\devCampMentorMate\\devCampExercise\\obj\\",
+        "outputPath": "C:\\Users\\Boris\\Desktop\\MentorMateDevCamp\\devCampExercise\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

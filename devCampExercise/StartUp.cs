@@ -1,6 +1,6 @@
 ﻿using System;
 
-public class MMLogo
+public class StartUp
 {
     public static void Main()
     {
